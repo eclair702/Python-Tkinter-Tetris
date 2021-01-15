@@ -1,6 +1,10 @@
 #with More Next Previews
-#with clock
+#with Clock (Becomes negative when jumping between hours)
 #Predict (Beta, still have bugs but is working most of the time and won't affect gameplay)
+#Bugs I know are when I call hold, it messes the prediction. Maybe I should remove predicting when holding pieces too.
+#Code is longer because I don't know how to shorten it with for loops
+#I don't know how pull requests works but I'm doing this to contact the base creator cause I can't contact you.
+#If you're kind and not busy enough to help me answer my questions about this code, please give me your contact details sir, thank you. 
 
 
 
